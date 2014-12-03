@@ -1,12 +1,5 @@
 package com.kirkg.montecarlo;
 
-import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-
-
 /**
  * Created by kirkg on 12/3/14.
  */
